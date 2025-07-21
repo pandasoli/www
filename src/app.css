@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+:root {
+	font-family: monospace;
+	font-size: var(--text-base)
+}
+
+body { height: 100% }
